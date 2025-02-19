@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/gettrace.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/BRIDGE/bridge_1x2.v,1738385222,verilog,,F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/CONFREG/confreg.v,,bridge_1x2,,,,,,,,
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/CONFREG/confreg.v,1738385222,verilog,,F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/soc_lite_top.v,,confreg,,,,,,,,
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/myCPU/SimpleLACoreWrapRAM.v,1738385222,verilog,,F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/BRIDGE/bridge_1x2.v,,SimpleLACore;SimpleLACoreWrapRAM,,,,,,,,
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/soc_lite_top.v,1738385222,verilog,,F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/tb_top.v,,soc_lite_top,,,,,,,,
+F:/LXB/cdp_ede_local/mycpu_env/gettrace/src/tb_top.v,1738385222,verilog,,,,tb_top,,,,,,,,

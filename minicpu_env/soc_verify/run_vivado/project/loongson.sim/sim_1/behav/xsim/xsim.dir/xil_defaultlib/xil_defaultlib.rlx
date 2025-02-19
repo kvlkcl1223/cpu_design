@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/LXB/cdp_ede_local/minicpu_env/miniCPU/minicpu_top.v,1739889330,verilog,,F:/LXB/cdp_ede_local/minicpu_env/miniCPU/regfile.v,,minicpu_top,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/miniCPU/regfile.v,1730429372,verilog,,F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/soc_mini_top.v,,regfile,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/miniCPU/tools.v,1730429372,verilog,,F:/LXB/cdp_ede_local/minicpu_env/soc_verify/testbench/mycpu_tb.v,,decoder_2_4;decoder_4_16;decoder_5_32;decoder_6_64,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/CONFREG/confreg.v,1738385220,verilog,,F:/LXB/cdp_ede_local/minicpu_env/miniCPU/minicpu_top.v,,confreg,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/soc_mini_top.v,1738385220,verilog,,F:/LXB/cdp_ede_local/minicpu_env/miniCPU/tools.v,,soc_mini_top,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll.v,1739268194,verilog,,F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/xilinx_ip/inst_ram/sim/inst_ram.v,,clk_pll,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll_clk_wiz.v,1739268194,verilog,,F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll.v,,clk_pll_clk_wiz,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/xilinx_ip/inst_ram/sim/inst_ram.v,1739268200,verilog,,F:/LXB/cdp_ede_local/minicpu_env/soc_verify/rtl/CONFREG/confreg.v,,inst_ram,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/run_vivado/project/loongson.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/LXB/cdp_ede_local/minicpu_env/soc_verify/testbench/mycpu_tb.v,1739863714,verilog,,,,tb_top,,,../../../../../../rtl/xilinx_ip/clk_pll,,,,,
